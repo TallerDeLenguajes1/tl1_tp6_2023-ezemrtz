@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-    int opcion, num1, num2;
+int opcion, num1, num2;
 do
 {
     Console.WriteLine("Ingrese la operacion a realizar: ");
