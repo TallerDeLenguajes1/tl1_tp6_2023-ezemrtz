@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+//Ejercicio 1
+
 int num = 0;
 string? numString = "", numInvS = "";
 bool anda = false;
@@ -22,4 +24,4 @@ if(num > 0){
     Console.WriteLine(numInvS);
 }
 
-
+// Ejercicio 4
